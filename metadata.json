@@ -1,0 +1,6 @@
+{
+  "name": "Raf Etiketi Yazdirma Paneli",
+  "description": "Marketler için termal yazıcı uyumlu profesyonel raf etiketi oluşturma ve yazdırma paneli.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
